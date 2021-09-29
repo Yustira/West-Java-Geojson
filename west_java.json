@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kab. Bogor",
-        "code_name": 3201},
+        "kab_kota": "KABUPATEN BOGOR",
+        "code_kab_kota": 3201},
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
@@ -269,8 +269,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kab. Sukabumi",
-        "code_name": 3202},
+        "kab_kota": "KABUPATEN SUKABUMI",
+        "code_kab_kota": 3202},
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
