@@ -3,8 +3,13 @@
   "features": [
     {
       "type": "Feature",
-      "id": "01001",
-      "properties": {"Name": "Austaga"},
+      "properties": {
+        "GEO_ID": "0500000US01001", 
+        "STATE": "01", 
+        "COUNTY": "001", 
+        "NAME": "Autauga", 
+        "LSAD": "County", 
+        "CENSUSAREA": 594.436},
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
@@ -18,7 +23,8 @@
           [-86.413116, 32.707386],
           [-86.411172, 32.409937],
           [-86.496774, 32.344437]]]
-      }
+      },
+      "id": "01001"
     }
   ]
 }
