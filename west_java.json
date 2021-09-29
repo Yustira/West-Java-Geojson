@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "NAME": "Kab. Bogor"},
+        "name": "Kab. Bogor"},
       "id": 3201,
       "geometry": {
         "type": "Polygon",
@@ -269,7 +269,7 @@
     {
       "type": "Feature",
       "properties": {
-        "NAME": "Kota Bogor"},
+        "name": "Kota Bogor"},
       "id": 3271,
       "geometry": {
         "type": "Polygon",
