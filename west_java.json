@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "01"
+      "id": "01",
       "properties": {"NAME": "KABUPATEN SUKABUMI"},
       "geometry": {
         "type": "Polygon",
